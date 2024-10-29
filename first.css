@@ -1,0 +1,14 @@
+.card{
+    height:300px;
+    background-color:white;
+    width:40%;
+    margin-left:3%;
+    overflow: scroll;
+    margin-top: 2%;
+    float: left;
+    
+}
+#main{
+    display: flex;
+    flex-wrap: wrap;
+    }
